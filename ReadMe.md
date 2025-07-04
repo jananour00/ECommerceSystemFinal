@@ -23,6 +23,10 @@ This e-commerce system demonstrates proper OOP principles with:
 ## Class Structure
 ![nLLHJzim47xFhxZrPHqGnBIt2Yf6GHFQ16n1xDbnhgs54mVRwOOw_ljySNfAIa52UnWlvRuxVz_vxdmvTLvOtvGwUUUNM2AiL6v5vPFtSDB-mSnOX9aMpg7hi4II2JVM58tqi4u0qagKE87CMrKjoAwjaW4eJ9Dh942iXD8Y6D-RmA_yumHKq07ONw2_2gV77_Xy16-8Wb0csRSO59](https://github.com/user-attachments/assets/6c372bc0-5b83-44e7-9a2c-a305b3266ca9)
 
+## Output Screen
+![image](https://github.com/user-attachments/assets/aebfb8ac-c8dc-4618-b710-3f19b2bad7bc)
+
+
 ### Core Classes
 
 * **Product**: Abstract base class for all products
