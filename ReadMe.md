@@ -185,16 +185,7 @@ ECommerceSystem/          <–– project root
 └── .gitignore            <–– ignores .class, .settings/, etc.
 ```
 
-> **Tip:** If you prefer Maven, rename `src/` to `src/main/java/` and add a `pom.xml`; everything else stays the same.
 
-## Future Enhancements
-
-1. **Payment Gateway Integration**
-2. **User Authentication**
-3. **Order History Tracking**
-4. **Discount/Promotion System**
-5. **Product Categories**
-6. **Database Integration**
 7. **Web Interface**
 
 The system is designed to be extensible for these future requirements while maintaining clean architecture and solid OOP principles.
